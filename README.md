@@ -1,1 +1,2 @@
 # DelayDiscountingAssignment
+I had trouble with randomizing and adding more rows to the orgininal idea for the assignment so I just created a new csv with 60 random delays and 30 of them having cues and 30 not having cues. I also couldn't get the red select rectangle outline to work correctly so I deleted that too. I had trouble with calculating the final anaylsis so I had some help from the internet with that. I think I understand it a little bit though
